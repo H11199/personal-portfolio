@@ -12,7 +12,7 @@ function Home() {
         mainTitle="FULL STACK WEB DEVELOPER"
         mainPara="A full stack web-developer who loves to create beautifull and
       creative websites that converts visitors into customers and help
-      your buisness grows. My expertise in the area of both backend and frontend with responsive designining. With every line of code i  strive to make a web a beautiful place."
+      your buisness grows. My expertise in the area of both backend and frontend with responsive designining. With every line of code I strive to make a web a beautiful place."
         imgLink={him3}
       />
       <TileRow />

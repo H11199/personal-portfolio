@@ -5,6 +5,7 @@ import pig from "../images/pig-game.png";
 import blog from "../images/blog-website1.jpg";
 import todoList from "../images/todoList2.jpg";
 import Newsletter from "../images/newsletter1.jpg";
+import product from "../images/product.png";
 export function ProjectValue() {
   return [
     {
@@ -48,6 +49,13 @@ export function ProjectValue() {
       projectGitLink: "https://github.com/H11199/Newsletter",
       projectContent:
         "I built this when I was dealing with API's. Here I used mailchimp API for newsletter subscription",
+    },
+    {
+      projectImgLink: product,
+      projectName: "WareHouse Management",
+      projectGitLink: "https://github.com/H11199/WareHouse-Managment",
+      projectContent:
+        "We built this project for management of smart warehouse and tracking of products. Here we used mongoDB for data storage. Data comes from RFID.",
     },
   ];
 }
