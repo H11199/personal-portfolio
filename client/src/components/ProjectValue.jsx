@@ -5,7 +5,7 @@ import pig from "../images/pig-game.png";
 import blog from "../images/blog-website1.jpg";
 import todoList from "../images/todoList2.jpg";
 import Newsletter from "../images/newsletter1.jpg";
-import product from "../images/product.png";
+import product from "../images/product.PNG";
 export function ProjectValue() {
   return [
     {
